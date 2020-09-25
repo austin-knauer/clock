@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clock/static/css/main.9a120d58.chunk.css",
+    "main.js": "/clock/static/js/main.976fc56e.chunk.js",
+    "main.js.map": "/clock/static/js/main.976fc56e.chunk.js.map",
+    "runtime-main.js": "/clock/static/js/runtime-main.bf40dc10.js",
+    "runtime-main.js.map": "/clock/static/js/runtime-main.bf40dc10.js.map",
+    "static/js/2.730278a9.chunk.js": "/clock/static/js/2.730278a9.chunk.js",
+    "static/js/2.730278a9.chunk.js.map": "/clock/static/js/2.730278a9.chunk.js.map",
+    "index.html": "/clock/index.html",
+    "precache-manifest.98a768b8920cf275766005466e9cdeab.js": "/clock/precache-manifest.98a768b8920cf275766005466e9cdeab.js",
+    "service-worker.js": "/clock/service-worker.js",
+    "static/css/main.9a120d58.chunk.css.map": "/clock/static/css/main.9a120d58.chunk.css.map",
+    "static/js/2.730278a9.chunk.js.LICENSE.txt": "/clock/static/js/2.730278a9.chunk.js.LICENSE.txt",
+    "static/media/beep.mp3": "/clock/static/media/beep.b36f058a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf40dc10.js",
+    "static/js/2.730278a9.chunk.js",
+    "static/css/main.9a120d58.chunk.css",
+    "static/js/main.976fc56e.chunk.js"
+  ]
+}
